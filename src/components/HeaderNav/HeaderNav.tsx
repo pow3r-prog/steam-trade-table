@@ -10,7 +10,7 @@ function HeaderNav() {
                 Home
             </NavLink>
             <NavLink to='/projects' className='header__nav_item'>
-                Projects
+                table
             </NavLink>
         </header>
     )
